@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\bin\Debug\Builder.exe
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\obj\Debug\Builder.exe
+C:\BOT\Cursos\Patrones\Builder\Builder\Builder\obj\Debug\Builder.pdb
